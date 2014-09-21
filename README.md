@@ -4,7 +4,7 @@ The raw data is within this repo and is structured under the 'UCI HAR Dataset'.
 
 The data being analyzed is under the test and train directories, which are mirrors of eachother in layout. The subject_test.txt is the Subject(person) the data was collected from. The y_test.txt is the activity performed (see activity_labels below). The x_test.txt is the raw data. The train directory is respective in layout.
 
-In the root directory of the the study the activity_label.txt spells out the exact activity. The features explains the 561 columns of raw data in the x_test.txt and x_train.txt files. 
+In the root directory of the the study the activity_label.txt spells out the exact activity (this is for the y_test.txt and y_train.txt data). The features explains the 561 columns of raw data in the x_test.txt and x_train.txt files. 
 
 Lastly the features_info.txt and the README.txt spell out in more depth how the study was run and the meanings of some the features, etc.
 
