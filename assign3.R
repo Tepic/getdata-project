@@ -1,5 +1,5 @@
 
-runTidyData <- function(){
+run_analysis <- function(){
   if (!file.exists("UCI HAR Dataset"))
   {
     stop("Please set working directory to where assign3.R is located! i.e. setwd('some/dir/path')")
