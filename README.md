@@ -1,8 +1,8 @@
-This is the class assignment from coursera course 'Getting and Cleaning Data' under the Data Sciences track offered from John Hopkins University.
+This is a class assignment from coursera course 'Getting and Cleaning Data' under the Data Sciences track offered from John Hopkins University.
 
 The raw data is within this repo and is structured under the 'UCI HAR Dataset'.
 
-The data being analyzed is under the test and train directories, which are mirrors of eachother in layout. The subject_test.txt is the Subject(person) the data was collected from. The y_test.txt is the activity performed (see activity_labels below). The x_test.txt is the raw data. The train is respective in layout.
+The data being analyzed is under the test and train directories, which are mirrors of eachother in layout. The subject_test.txt is the Subject(person) the data was collected from. The y_test.txt is the activity performed (see activity_labels below). The x_test.txt is the raw data. The train directory is respective in layout.
 
 In the root directory of the the study the activity_label.txt spells out the exact activity. The features explains the 561 columns of raw data in the x_test.txt and x_train.txt files. 
 
