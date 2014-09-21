@@ -10,7 +10,7 @@ Lastly the features_info.txt and the README.txt spell out in more depth how the 
 
 To run this:
 
-setwd('to/local/path/where/assign3.R')
+setwd('to/local/path/where/run_analysis.R')
 tidy <- runTidyData()
 
 a secondary study file will be created and placed in the same directory as the assign3.R file. This file has the name second_study.txt.
